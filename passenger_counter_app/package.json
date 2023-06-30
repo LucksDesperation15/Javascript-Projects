@@ -1,0 +1,23 @@
+{
+  "name": "passenger_counter_app",
+  "version": "1.0.0",
+  "description": "App that counts how many passengers are in the station",
+  "main": "startserver.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Javascript-Projects"
+  },
+  "keywords": [
+    "app",
+    "test",
+    "learning"
+  ],
+  "author": "bc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
