@@ -1,0 +1,19 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "Blackjack game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "js",
+    "learning",
+    "game"
+  ],
+  "author": "bc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
