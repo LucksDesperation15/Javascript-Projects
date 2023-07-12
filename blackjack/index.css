@@ -1,0 +1,52 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: green;
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    height: 100vh; /* Set height to 100% of viewport height */
+    width: 100%; /* Set width to 100% */
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+#start-btn {
+    /* Add your desired styles here */
+    background-color: goldenrod;
+    color: white;
+    padding: 10px 20px;
+    width: 150px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #start-btn:hover {
+    /* Styles to apply when hovering over the button */
+    background-color: darkgreen;
+  }
+
+  #new-card-btn {
+    /* Add your desired styles here */
+    background-color: goldenrod;
+    color: white;
+    padding: 10px 20px;
+    width: 150px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 5px 5px;
+  }
+  
+  #new-card-btn:hover {
+    /* Styles to apply when hovering over the button */
+    background-color: darkgreen;
+  }
