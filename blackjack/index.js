@@ -1,3 +1,4 @@
+
 let player = {
     "name": "Bob",
     "chips": 145
@@ -52,6 +53,7 @@ function renderGame() {
         isAlive = false
     }
     
+
 
     cardsEl.textContent = `Cards: `
     for (let i=0; i<cards.length; i++){
