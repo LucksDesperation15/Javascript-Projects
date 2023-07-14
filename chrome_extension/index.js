@@ -10,4 +10,3 @@ inputBtn.addEventListener("click", function() {
         ulEl.innerHTML = "<li>" + myLeads[i] + "</li>" 
     }
 })
-
