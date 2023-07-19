@@ -5,4 +5,8 @@ addButtonEl.addEventListener("click", function() {
     let inputValue = inputFieldEl.value
     
     console.log(inputValue)
+<<<<<<< HEAD
 })
+=======
+})
+>>>>>>> main
